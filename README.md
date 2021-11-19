@@ -26,3 +26,4 @@ Requirements:
 •	The user will have the option to play again the game at the same level of difficulty by clicking the restart button.    
 •	The menu button will give the user the option to return to the main menu and select a different level of difficulty. 
 
+The wireframe Design:[2_DATA2.docx](https://github.com/santoun001/DATA-PROJ/files/7569714/2_DATA2.docx)
